@@ -1,0 +1,5 @@
+Eine Programmiersprache ist eine formale Sprache zur Formulierung von Datenstrukturen und Algorithmen, d. h. von Rechenvorschriften, die von einem Computer ausgeführt werden können.[1] Sie setzen sich aus Anweisungen nach einem vorgegebenen Muster zusammen, der sogenannten Syntax.
+
+Während die ersten Programmiersprachen noch unmittelbar an den Eigenschaften der jeweiligen Rechner orientiert waren, verwendet man heute meist problemorientierte Sprachen, sogenannte höhere Programmiersprachen, die eine abstraktere und für den Menschen leichter verständliche Ausdrucksweise erlauben. In diesen Sprachen geschriebene Programme können automatisiert in Maschinensprache übersetzt werden, die von einem Prozessor ausgeführt wird. Zunehmend kommen auch visuelle Programmiersprachen zum Einsatz, die den Zugang zu Programmiersprachen erleichtern.
+
+Bei deklarativen Programmiersprachen ist der Ausführungsalgorithmus schon vorab festgelegt und wird nicht im Quelltext ausformuliert/beschrieben, sondern es werden nur seine (Start-)Parameter, (Rand-)Bedingungen und Regeln festgelegt, die das Ergebnis erfüllen muss.

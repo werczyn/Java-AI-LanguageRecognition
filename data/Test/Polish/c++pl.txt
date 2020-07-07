@@ -1,0 +1,7 @@
+Umo¿liwia abstrakcjê danych oraz stosowanie kilku paradygmatów programowania: proceduralnego, obiektowego i generycznego. Charakteryzuje siê wysok¹ wydajnoœci¹ kodu wynikowego, bezpoœrednim dostêpem do zasobów sprzêtowych i funkcji systemowych, ³atwoœci¹ tworzenia i korzystania z bibliotek (napisanych w C++, C lub innych jêzykach), niezale¿noœci¹ od konkretnej platformy sprzêtowej lub systemowej (co gwarantuje wysok¹ przenoœnoœæ kodów Ÿród³owych) oraz niewielkim œrodowiskiem uruchomieniowym. Podstawowym obszarem jego zastosowañ s¹ aplikacje i systemy operacyjne.
+
+C++ zosta³ zaprojektowany przez Bjarne Stroustrupa jako rozszerzenie jêzyka C o obiektowe mechanizmy abstrakcji danych i siln¹ statyczn¹ kontrolê typów. Zachowanie zgodnoœci z jêzykiem C na poziomie kodu Ÿród³owego pozostaje jednym z podstawowych celów projektowych kolejnych standardów jêzyka.
+
+W latach 90. XX wieku jêzyk C++ zdoby³ pozycjê jednego z najpopularniejszych jêzyków programowania ogólnego przeznaczenia. Na pocz¹tku XXI wieku liczbê programistów jêzyka C++ szacowano na oko³o 3 miliony[1].
+
+Jêzyk C++ jest standaryzowany przez ISO. Ostatnia, najnowsza z wersji standardu, nazywana C++17, opublikowana zosta³a w grudniu 2017 jako ISO/IEC 14882:2017[2]. Pierwsz¹ wersjê, C++98, opublikowano w 1998 jako ISO/IEC 14882:1998[3]. Nastêpnie kilkukrotnie standard aktualizowano: C++03[4], C++11[5][6][7] (opracowany ju¿ w 2009 jako C++0x, jednak opublikowany dopiero w 2011)[8], oraz C++14[9]. Obecnie planowana jest ju¿ kolejna wersja standardu, na razie roboczo nazywana C++2a[10].

@@ -1,0 +1,14 @@
+Język C# ma wiele cech wspólnych z językami programowania Object Pascal, Delphi, C++ i Java.
+
+obiektowość z hierarchią o jednym elemencie nadrzędnym: podobnie jak w Javie, kod programu jest zbiorem klas. W C# podobnie tak jak w Javie/Object Pascalu hierarchia dziedziczenia opiera się na istnieniu jednej klasy object (System.Object), która stanowi element nadrzędny tej hierarchii. W szczególności oznacza to, że również typy proste (int, double, itd.) są strukturami z właściwymi sobie metodami, np. int i=1; string s = i.ToString();
+odśmiecanie pamięci: zarządzaniem pamięcią zajmuje się środowisko uruchomieniowe. Oznacza to, że nie ma potrzeby samodzielnego zajmowania się zwalnianiem pamięci po obiektach, które przestają być używane
+właściwości, indeksery: dodatkowe elementy składowe klas
+delegaty, zdarzenia: odpowiedniki i rozwinięcie wskaźników na funkcje z C++
+refleksje i atrybuty klas: w czasie pracy programu istnieje możliwość analizy struktury kodu z poziomu tego kodu. Umożliwia to tworzenie wysoce uniwersalnych mechanizmów operujących na strukturze kodu nieznanej w czasie kompilacji. Mechanizm ten wykorzystywany jest m.in. w bibliotekach ORM, narzędziach do analizy i weryfikacji kodu czy rozszerzeniach AOP. Mechanizm atrybutów został z C# zapożyczony do języka Java w wersji 1.5 (adnotacje), jakkolwiek samo Reflection API istniejące od pierwszego wydania języka stanowiło inspirację dla twórców C#
+typy ogólne (generics – dostępne od wersji .NET 2.0): mechanizm zbliżony swoją ogólnością do szablonów w C++, jednak tu typ ogólny jest przenoszony do modułu binarnego i możliwy jest do wykorzystania bez konieczności posiadania kodu źródłowego
+dynamiczne tworzenie kodu: biblioteki .NET umożliwiają dynamiczne tworzenie kodu w czasie działania programu i włączanie go do kodu aktualnie wykonywanego. Możliwe jest zarówno dynamiczne tworzenie kodu wykonywalnego ze źródeł C# jak i tworzenie dynamicznych modułów w języku pośrednim (CIL).
+bogata biblioteka klas BCL, umożliwiająca rozwijanie aplikacji konsolowych, okienkowych (System.Windows.Forms oraz WPF od .NET Framework 3.0), bazodanowych (ADO.NET), sieciowych (System.Net), w architekturze rozproszonej (WebServices) czy dynamicznych aplikacji internetowych (ASP.NET) oraz dynamiczne treści multimedialne (Silverlight).
+W C#, podobnie jak w C stosuje się dwa rodzaje komentarzy:
+// to komentarz jednoliniowy, czyli wszystkiego, co znajduje się za nim, kompilator nie bierze pod uwagę.
+Komentarz wielowierszowy zaczyna się od /* a kończy */. Kompilator nie bierze pod uwagę tego, co znajduje się pomiędzy.
+Jeśli komentarz zaczyna się od /// lub /**, to jest to komentarz, w którym umieszcza się dokumentację do kodu.

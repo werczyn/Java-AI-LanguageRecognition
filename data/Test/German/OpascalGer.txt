@@ -1,0 +1,5 @@
+1986 erweiterte Borland seine Entwicklungsumgebung Turbo Pascal für den Apple Macintosh um objektorientierte Sprachmerkmale, die anfangs der Apple-Implementierung stark ähnelten. Mit Turbo Pascal 5.5 folgte 1989 eine Version für DOS. 1993 begann Borland mit der Entwicklung von Delphi als Nachfolger von Turbo Pascal für Windows. 1995 veröffentlichte Borland Delphi 1.0 und führte damit neue Spracherweiterungen wie ein neues Objektmodell mit erweiterter Klassenunterstützung und vielfältigeren Sichtbarkeitsregeln ein. Das alte Objektmodell von Apple und Turbo Pascal („Old-Style Object Types“) wurde und wird aber weiterhin unterstützt[1].
+
+Mit der Zeit wurde die Sprache immer wieder weiterentwickelt und u. a. um Generics und anonyme Funktionen erweitert.
+
+Neben dem verbreiteten Delphi gibt es viele andere Compiler für Object Pascal wie u. a. die Open-Source-Projekte Free Pascal und GNU Pascal. Sie streben teilweise Kompatibilität zu Delphi an, pflegen aber eine eigene Sprachdefinition mit eigenen Erweiterungen. Die aktuelle Free Pascal-Version 3.0 unterstützt sowohl Old-Style-Objekte als auch die mit Delphi eingeführten moderneren Klassenkonzepte.

@@ -1,0 +1,14 @@
+Obliczenia równoległe – forma wykonywania obliczeń, w której wiele instrukcji jest wykonywanych jednocześnie[1]. Taka forma przetwarzania danych była wykorzystywana przez wiele lat, głównie przy wykorzystaniu superkomputerów, a szczególne zainteresowanie zyskała w ostatnich latach, z uwagi na fizyczne ograniczenia uniemożliwiające dalsze zwiększanie częstotliwości taktowania procesorów. Obliczenia równoległe stały się dominującym wzorcem w architekturze komputerowej, głównie za sprawą upowszechnienia procesorów wielordzeniowych[2].
+Ze względu na skalę można wyróżnić obliczenia równoległe na poziomie:
+bitów
+instrukcji
+danych
+zadań
+Ze względu na poziom, na którym sprzęt wspomaga operacje równoległe, można wyróżnić komputery:
+jednoprocesorowe wielordzeniowe (zawierające jeden procesor wielordzeniowy)
+symetryczne wieloprocesorowe (zawierające kilka identycznych, równorzędnych procesorów)
+systemy składające się z wielu maszyn:
+klastry
+systemy MPP
+gridy.
+Do prowadzenia obliczeń równoległych, oprócz sprzętu, konieczne są również odpowiednie algorytmy nazywane równoległymi. Są one trudniejsze w implementacji niż sekwencyjne[3], ponieważ współbieżność wprowadza dodatkowe możliwości popełnienia błędu. Powstają również dodatkowe problemy w uzyskaniu wysokiej wydajności z powodu dodatkowych nakładów na komunikację i konieczność synchronizacji obliczeń.
